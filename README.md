@@ -12,7 +12,7 @@ This project aims at identifying the most common queries on Tatoeba. For this pu
 * the occurrences of the queries are counted and these counts are sorted by descending order
 
 ## Results
-The Tatoeba most common queries are available [here](https://github.com/LBeaudoux/tatoeba-most-common-queries/tree/main/rankings) for 150 languages.
+The Tatoeba most common queries are available [here](https://github.com/LBeaudoux/tatoeba-most-common-queries/tree/main/rankings) as CSV files for 150 languages.
 
 ## Raw source data
 Download the Tatoeba search annual log [here](https://downloads.tatoeba.org/stats/queries.csv.bz2).
